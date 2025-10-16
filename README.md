@@ -1,4 +1,4 @@
-#Bienvenue sur mon profil GitHub !
+Bienvenue sur mon profil GitHub !
 
 Je m'appelle Thanh Long, étudiant en deuxième année de BUT Informatique à l'IUT Robert Schuman,passionné par le développement logiciel, les réseaux et la cybersécurité.
 
