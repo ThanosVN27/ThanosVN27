@@ -16,7 +16,7 @@ Développer des applications en C#, Java et C, travailler sur des projets orient
 
 🛠️ Compétences
 
-Langages : C, C#, Java, SQL, Bash, HTML/CSS
+Langages : C, C#, Java, SQL, Bash, HTML/CSS,PHP
 
 Outils : Git, Linux, Visual Studio, IntelliJ IDEA, MySQL, Wireshark
 
