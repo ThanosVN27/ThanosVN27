@@ -1,6 +1,6 @@
 #Bienvenue sur mon profil GitHub !
 
-Je m'appelle Thanh Long, étudiant en deuxième année de BUT Informatique à l'IUT Robert Schuman. Passionné par le développement logiciel, les réseaux et la cybersécurité, j’aime relever des défis techniques et découvrir de nouvelles technologies.
+Je m'appelle Thanh Long, étudiant en deuxième année de BUT Informatique à l'IUT Robert Schuman. Passionné par le développement logiciel, les réseaux et la cybersécurité.
 
 💡 Ce que j’aime faire
 
