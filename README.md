@@ -20,11 +20,10 @@ Langages : C, C#, Java, SQL, Bash, HTML/CSS
 
 Outils : Git, Linux, Visual Studio, IntelliJ IDEA, MySQL, Wireshark
 
-📫 Me contacter 📧 Thanh-long.le@etu.unistra.fr
+📫 Me contacter : 📧 Thanh-long.le@etu.unistra.fr
 
-💼 LinkedIn
+💼 LinkedIn : 
 
-📁 Portfolio
 
 About
 No description, website, or topics provided.
