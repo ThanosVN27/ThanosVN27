@@ -12,6 +12,7 @@ Passionné par le **développement logiciel**, les **réseaux** et la **cybersé
 - Contribution à des projets **open-source**
 - Amélioration continue en **architecture logicielle**
 
+---
 ### 🚀 Languages & Tools
 <p align="left">
 
