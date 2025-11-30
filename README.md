@@ -12,8 +12,10 @@ Langages : C, C#, Java, SQL, Bash, HTML/CSS,PHP
 
 Outils : Git, Linux, Visual Studio, IntelliJ IDEA, MySQL, Wireshark
 
-📫 Me contacter : 📧 Thanhlongle2704@gmail.com
+📫 Me contacter : 📧 thanh-long.le@etu.unistra.fr 
 
-💼 LinkedIn : 
+
+
+💼 Telephone : 0753291391
 
 
