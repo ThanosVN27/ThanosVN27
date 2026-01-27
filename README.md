@@ -50,15 +50,18 @@ Passionné par le **développement logiciel**, les **réseaux** et la **cybersé
 ---
 
 ## 🎯 Objectifs
-- 🔐 Approfondir mes connaissances en **sécurité informatique** et en **administration réseau**  
+- 🔐 Approfondir mes connaissances en **informatique**  
 - 🤝 Participer à des projets collaboratifs pour développer des solutions innovantes  
-- 🎯 Préparer mon avenir professionnel dans le domaine du **développement logiciel** et de la **cybersécurité**
+- 🎯 Préparer mon avenir professionnel dans le domaine du **développement logiciel** 
 
 ---
 
 ## 📫 Me contacter
 - 📧 Email : **thanh-long.le@etu.unistra.fr**  
 - 📱 Téléphone : **07 53 29 13 91**
+
+## 📄 Mon CV
+👉 [Télécharger mon CV](./CV_Thanh_Long.pdf)
 
 ---
 
