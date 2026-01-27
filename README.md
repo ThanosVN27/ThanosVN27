@@ -5,7 +5,7 @@ Passionné par le **développement logiciel**, les **réseaux** et la **cybersé
 
 ---
 
-## 💡 Centres d’intérêt
+## 💡 Domaines de compétences
 - 🚀 Développement d’applications en **C, C#, Java**
 - 🗄️ Projets orientés **bases de données** et **réseaux**
 - 🧩 Algorithmique, systèmes et **programmation orientée objet**
@@ -58,6 +58,12 @@ Passionné par le **développement logiciel**, les **réseaux** et la **cybersé
 - 🔐 Approfondir mes connaissances en **informatique**  
 - 🤝 Participer à des projets collaboratifs pour développer des solutions innovantes  
 - 🎯 Préparer mon avenir professionnel dans le domaine du **développement logiciel** 
+
+---
+## 💡 Centres d’intérêt
+- 🏃‍♂️ Sport  
+- 🎮 Jeux vidéo (valorant,LOL,R6,Fornite)  
+- 💻 Informatique & développement logiciel
 
 ---
 
