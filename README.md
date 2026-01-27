@@ -61,7 +61,7 @@ Passionné par le **développement logiciel**, les **réseaux** et la **cybersé
 - 📱 Téléphone : **07 53 29 13 91**
 
 ## 📄 Mon CV
-👉 [Télécharger mon CV](./CV_Thanh_Long.pdf)
+👉 [Télécharger mon CV](./CV_Le-ThanhLong.pdf)
 
 ---
 
