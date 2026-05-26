@@ -107,10 +107,14 @@
     <td>Stage / Alternance en développement ou cybersécurité</td>
   </tr>
   <tr>
-    <td>📬</td>
-    <td><b>Contact</b></td>
-    <td><a href="mailto:thanh-long.le@etu.unistra.fr">thanh-long.le@etu.unistra.fr</a></td>
-  </tr>
+  <td>📬</td>
+  <td><b>Contact</b></td>
+  <td>
+    <a href="mailto:thanh-long.le@etu.unistra.fr">thanh-long.le@etu.unistra.fr</a>
+    ·
+    <a href="mailto:thanhlongle2704@gmail.com">thanhlongle2704@gmail.com</a>
+  </td>
+</tr>
 </table>
 
 ---
