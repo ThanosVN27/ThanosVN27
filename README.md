@@ -15,6 +15,7 @@
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=LeThanhLong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
@@ -76,6 +77,65 @@
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,postman,vscode,idea&theme=dark&perline=10"/>
 
 </div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+
+## 🚀 Projets académiques & personnels
+
+<details>
+<summary><b>🎮 Jeu sérieux sur l'auditeur | 2e année</b> — 15 semaines · Équipe de 4</summary>
+<br/>
+
+> Développement d'un jeu sérieux avec **Godot (GDScript)**<br/>
+> Gestion du code source avec **Git** et travail collaboratif
+
+</details>
+
+<details>
+<summary><b>⚓ Jeu Bataille Navale | 2e année</b> — 5 semaines · Équipe de 2</summary>
+<br/>
+
+> Développement d'une application en **JavaFX**<br/>
+> Mise en œuvre des principes de la **programmation orientée objet**
+
+</details>
+
+<details>
+<summary><b>🔢 Jeu 2048 | 2e année</b> — 5 semaines · Équipe de 3</summary>
+<br/>
+
+> Développement en **C**<br/>
+> Implémentation des algorithmes de déplacement et de fusion des tuiles
+
+</details>
+
+<details>
+<summary><b>🌐 Simulateur de réseau | 1re année</b> — 5 semaines · Équipe de 2</summary>
+<br/>
+
+> Développement en **C**<br/>
+> Simulation du fonctionnement d'un réseau local **Ethernet**
+
+</details>
+
+<details>
+<summary><b>🎲 Jeu de Yams | 1re année</b> — 5 semaines · Équipe de 2</summary>
+<br/>
+
+> Développement en **C# et HTML/CSS**<br/>
+> Compréhension de la logique de jeu et de la programmation
+
+</details>
+
+<details>
+<summary><b>🐉 Donjon & Dragon | 1re année</b> — 5 semaines · Équipe de 3</summary>
+<br/>
+
+> Développement en **JavaFX**<br/>
+> Création d'un jeu de plateau basé sur la **programmation orientée objet**
+
+</details>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
